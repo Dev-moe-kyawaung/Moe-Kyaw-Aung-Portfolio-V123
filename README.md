@@ -149,8 +149,8 @@ No specific license information was provided for this repository. Please contact
 
 *   **Repository URL**: [Moe-Kyaw-Aung-Portfolio-v113](https://github.com/Dev-moe-kyawaung/Moe-Kyaw-Aung-Portfolio-v113)
 *   **Developer's GitHub**: [Dev-moe-kyawaung](https://github.com/Dev-moe-kyawaung)
-*   **Developer's Email**: [moekyawaung@example.com](mailto:moekyawaung@example.com)
-*   **Developer's Phone**: [+1234567890](tel:+1234567890)
+*   **Developer's Email**: contact@moekyawaung.dev
+*   **Developer's Phone**: [Contact via form](/contact.html)
 *   **Live Demo**: (Please replace with actual deployment URL if available)
 
 ## Footer 👋
